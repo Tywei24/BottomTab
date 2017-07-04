@@ -1,0 +1,2 @@
+include ':app', ':bottomtabdemo', ':library-slidingmenu'
+include ':library-ViewPagerIndicator'
